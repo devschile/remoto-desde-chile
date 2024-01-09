@@ -10,7 +10,7 @@ Enfocado en desarrolladores y profesiones afines trabajando remotamente desde Ch
 
 Este es un trabajo colaborativo, [contribuye](CONTRIBUTING.md)!
 
-* https://polymeris.github.io/remoto-desde-chile/
+* https://devschile.github.io/remoto-desde-chile/ 
 {:toc}
 
 

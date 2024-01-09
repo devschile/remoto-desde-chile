@@ -1,6 +1,6 @@
 Para contribuir puedes abrir un pull request en GitHub.
 
-Por favor, publica en `#remoto` de devschile o mándame un DM (`@polymeris`), muchas veces no me doy cuenta que hay un PR abierto.
+Por favor, publica el PR en `#remoto` de devschile.
 
 ## Contenidos
 

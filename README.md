@@ -227,9 +227,9 @@ Si te pagan en dólares, usa la [tabla dólar-peso del SII](http://www.sii.cl/va
 
 ### Impuestos mensuales
 
-Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 12,15% de éstas), y luego puedes pagar en línea con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
+Si tu retuviste el Pago Provisional Mensual al emitir la boleta, debes declarar (**y, muy importante, pagar!**) impuestos mensuales usando el formulario F29 [la web del SII](http://homer.sii.cl/). La página calcula el monto por ti a partir de las boletas electrónicas del mes anterior (un 13,75% de éstas), y luego puedes pagar en línea con tu banco. Cuando se habla de "devolución de impuestos" este es el dinero que se te devuelve, si sobra algo luego de tramitar tu declaración de impuestos anual.
 
-Nota: El porcentaje de retención de 12,15% es para el año comercial 2022, e irá aumentando:
+Nota: El porcentaje de retención de 13,75% es para el año comercial 2024, e irá aumentando:
 
 |2021  | 2022  | 2023  | 2024  | 2025  | 2026  | 2027  | 2028 |
 |:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|

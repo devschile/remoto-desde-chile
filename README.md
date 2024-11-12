@@ -69,7 +69,7 @@ Recuerda que los montos que negocias son BRUTOS. Por recibir ese dinero, tendrá
 
 ### Transferwise
 
-[Transferwise](https://transferwise.com/invite/u/camilop16) (link con invite) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
+[Transferwise](https://transferwise.com/) te da una especie de cuenta virtual dónde tu empleador puede depositar como si tuvieras una cuenta en EEUU. Luego tu puedes transferir a cuentas en muchos países, incluyendo Chile.
 
 Limitaciones:
 * en el pasado ha tenido limitaciones de monto mensual, pero a Julio 2020 no las hay

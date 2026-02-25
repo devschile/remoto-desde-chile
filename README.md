@@ -120,7 +120,8 @@ Las comisiones de las que tenemos conocimiento son las siguientes:
 
 | Banco                  | Comisión por recibir tu pago    | Vigencia desde |
 | -----------------------|:-------------------------------:|:--------------:|
-| BICE                   | ![Comisión BICE Recepción](https://github.com/user-attachments/assets/cd6404a1-bc1b-426b-bf62-4321d180d3d7) ([fuente](https://bice.modyocdn.com/uploads/9620a70b-2928-4aa4-a464-b46118988c25/original/Tarifas_y_Comisiones_Banca_Personas_Octubre_2024.pdf)) | Octubre 2024 || Scotiabank             | Gratis                          |
+| BICE                   | ![Comisión BICE Recepción](https://github.com/user-attachments/assets/cd6404a1-bc1b-426b-bf62-4321d180d3d7) ([fuente](https://bice.modyocdn.com/uploads/9620a70b-2928-4aa4-a464-b46118988c25/original/Tarifas_y_Comisiones_Banca_Personas_Octubre_2024.pdf)) | Octubre 2024 |
+| Scotiabank             | Gratis                          |
 | Bci                    | *UM50 + IVA                     |
 | Santander              | Comisión + IVA ![Comisión Santander Recepción](img/comision-recepcion-usd-santander.png) ([fuente](https://www.santander.cl/tarifas_comisiones/productos/TransExterior.pdf))    |
 | Banco Edwards / Chile  | ![Comisión Edwards Recepción](img/comision-recepcion-usd-edwards.png) ([fuente](https://transferwise.com/es/blog/transferencia-internacional-banco-chile)) |

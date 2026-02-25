@@ -1,5 +1,4 @@
-
-# remoto-desde-chile
+# Remoto desde Chile
 Enfocado en desarrolladores y profesiones afines trabajando remotamente desde Chile.
 
 ---
